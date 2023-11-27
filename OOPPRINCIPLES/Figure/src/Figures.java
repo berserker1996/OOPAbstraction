@@ -1,4 +1,4 @@
 public interface Figures {
 
-    double area();
+     double area();
 }

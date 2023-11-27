@@ -29,7 +29,4 @@ public class Triangule implements Figures {
         return (getBase() * getHeight() ) / 2.0;
     }
 
-    public void output(){
-        System.out.println("The area of the triangule is: " + area());
-    }
 }
