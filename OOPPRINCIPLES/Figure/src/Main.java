@@ -3,5 +3,8 @@ public class Main {
 
       Triangule triangule = new Triangule(2, 2 );
       triangule.output();
+
+      Square square = new Square(2, 2);
+      square.output();
     }
 }

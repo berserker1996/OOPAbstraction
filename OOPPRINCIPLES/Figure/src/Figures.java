@@ -1,2 +1,4 @@
-package PACKAGE_NAME;public interface Figures {
+public interface Figures {
+
+    double area();
 }
